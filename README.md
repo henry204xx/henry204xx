@@ -41,5 +41,5 @@ I’m passionate about **Data Science**, but I also work on various tech project
 ---
 
 ## 📫 Contact Me
-Feel free to reach out to me through [LinkedIn](https://id.linkedin.com/in/henry-filberto-shenelo-209b732b8) or email me at `13523108@std.stei.itb.ac.id`.
+Feel free to reach out to me through [LinkedIn](https://id.linkedin.com/in/henry-filberto-shenelo-209b732b8) or email me at `henryfilberto.shenelo@gmail.com`.
 

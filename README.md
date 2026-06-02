@@ -36,12 +36,12 @@ I’m passionate about **Data Science and Artificial Intelligence**, but I also 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henry204xx&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henry204xx&theme=radical&exclude=jupyter%20Notebook,html,css,tex)
 
 ---
 
 ## 📫 Contact Me
 - 🌐 Portfolio: henry204xx.vercel.app/
-- 💼 LinkedIn: https://id.linkedin.com/in/henry-filberto-shenelo-209b732b8 
+- 💼 LinkedIn: https://linkedin.com/in/henry-filberto-shenelo
 - 📧 Email: henryfilberto.shenelo@gmail.com
 

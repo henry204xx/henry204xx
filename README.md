@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henry!
 
-I'm an undergraduate student majoring in Informatics Engineering at the Bandung Institute of Technology (ITB).
+I'm an undergraduate student majoring in Informatics Engineering at Bandung Institute of Technology (ITB).
 
 I'm passionate about **Software Engineering**, **Artificial Intelligence**, and **Data Engineering**. I enjoy building interesting stuff (and hopefully useful).
 
@@ -51,7 +51,7 @@ I'm passionate about **Software Engineering**, **Artificial Intelligence**, and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=henry204xx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry204xx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8" height="165" alt="Top Langs" />
